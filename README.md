@@ -1,2 +1,2 @@
-# HTTP-Codes
-A JSON containing all HTTP codes with their corresponding status message.
+# HTTP-StatusCodes
+A JSON containing all HTTP status codes with their corresponding status messages.
