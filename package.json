@@ -1,5 +1,5 @@
 {
-  "name": "http-status-codes",
+  "name": "http-statuscodes",
   "version": "0.0.0",
   "description": "A JSON containing all HTTP status codes with their corresponding status messages",
   "main": "./index.js",
