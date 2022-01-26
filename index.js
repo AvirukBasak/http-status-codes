@@ -18,7 +18,7 @@ const getStatusCodesList = function() {
  */
 const getStatusMsg = function(code) {
   if (typeof code !== 'number')
-    throw new TypeError(`HTTP-StatusCodes: getStatusMsg: expected 'Number', recieved '${typeof code}'`);
+    throw new TypeError(`http-status-codes: getStatusMsg: expected 'Number', recieved '${typeof code}'`);
   return StatusCodes[code];
 }
 
