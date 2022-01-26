@@ -1,0 +1,21 @@
+{
+  "name": "http-status-codes",
+  "version": "0.0.0",
+  "description": "A JSON containing all HTTP status codes with their corresponding status messages",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OogleGlu/HTTP-StatusCodes.git"
+  },
+  "keywords": [
+    "HTTP",
+    "status",
+    "code"
+  ],
+  "author": "OogleGlu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OogleGlu/HTTP-StatusCodes/issues"
+  },
+  "homepage": "https://github.com/OogleGlu/HTTP-StatusCodes#readme"
+}
